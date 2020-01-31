@@ -1,0 +1,24 @@
+{
+  "name": "@genrate/react-editor",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Melvin Maron <melvin@clickprofits.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/react-editor.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@ogs.github.com:Genrate/genrate.git"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
